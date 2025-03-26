@@ -8,6 +8,8 @@ The fine-tuned T5 model offers several key advantages:
 - **Independence**: No reliance on external API services
 - **Consistency**: Predictable outputs with controlled generation parameters
 
+https://drive.google.com/file/d/1iQ3AA4HA6-bjuPLIXaAbiiluwa6ytQ2k/view?usp=sharing
+
 ## Project Overview
 
 This project involves a pipeline with several key steps:
